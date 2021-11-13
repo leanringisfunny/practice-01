@@ -1,0 +1,14 @@
+a{
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+
+* {
+    font-family: arial,sans-serif;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
